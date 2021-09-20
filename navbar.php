@@ -10,6 +10,9 @@
                 <a class="nav-link" href="index.php" style="color : #000000;"><b>Home</b></a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="https://internship.thesparksfoundation.info/" target="_blank" style="color : #000000;"><b>About Us</b></a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="createuser.php" style="color : #000000;"><b>Create User</b></a>
               </li>
               <li class="nav-item">
